@@ -10,7 +10,7 @@
  <div id="container">
  <!-- zone de connexion -->
  
- <form method="POST">
+ <form method="POST" action="./back-end/loginsystem.php">
  <h1>Connexion</h1>
  
  <label><b>Nom d'utilisateur</b></label>
