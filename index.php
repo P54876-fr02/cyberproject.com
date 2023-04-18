@@ -1,6 +1,4 @@
-<?php
-    include("./back-end/loginsystem.php")
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
