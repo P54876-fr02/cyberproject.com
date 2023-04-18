@@ -1,4 +1,4 @@
-<?php require('./back-end/loginsystem.php')?>
+<?php require('./back-end/loginsystem.php');?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
