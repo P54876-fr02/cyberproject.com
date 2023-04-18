@@ -1,4 +1,4 @@
-
+<?php require('./back-end/loginsystem.php')?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +10,7 @@
  <div id="container">
  <!-- zone de connexion -->
  
- <form method="POST" action="./back-end/loginsystem.php">
+ <form method="POST" >
  <h1>Connexion</h1>
  
  <label><b>Nom d'utilisateur</b></label>
